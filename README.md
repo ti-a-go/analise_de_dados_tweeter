@@ -1,0 +1,1 @@
+Esse projeto foi criado com base [nesse vídeo](https://www.youtube.com/watch?v=QqDyuAmmnJY&t=10s) do canal Programção Dinâmica.
